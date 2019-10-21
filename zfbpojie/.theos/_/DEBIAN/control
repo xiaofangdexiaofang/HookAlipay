@@ -1,0 +1,10 @@
+Package: com.cfy.zfbpojie
+Name: zfbpojie
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: cfy
+Author: cfy
+Section: Tweaks
+Version: 0.0.5-349+debug
+Installed-Size: 3704
